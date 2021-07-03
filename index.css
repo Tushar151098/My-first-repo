@@ -9,3 +9,10 @@ h2{
 h3{
     background-color: crimson;
 }
+.bird{
+    color: pink;
+}
+img{
+    border: solid 50px rgb(30, 255, 0);
+    border-radius: 2%;
+}
